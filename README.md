@@ -1,4 +1,4 @@
-#Python - Lab 1
+# Python - Lab 1
 
 Basic Python exercises, proposed in the first lab.
 
